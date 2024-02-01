@@ -4,6 +4,8 @@ This project involves creating a static web page that showcases information abou
 
 The page provides details about each browser's version and allows users to download them.
 
+![thumbnail.png](https://github.com/aldiandarwin/web-statis/assets/70283015/d36236a4-692d-447c-bf68-b8afc8ce2556)
+
 ## Project Overview
 
 The main objective of this project is to create a visually appealing and informative web page using HTML, CSS, and JavaScript. The page highlights the importance of using modern browsers and encourages users to update their browsers for a better web experience.
